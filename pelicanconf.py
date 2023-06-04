@@ -28,3 +28,11 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+    ('Home', '/'),
+    ('Articles', '/pages/articles.html'),
+    ('Publications', '/pages/publications.html'),
+    )
