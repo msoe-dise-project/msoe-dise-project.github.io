@@ -1,4 +1,6 @@
 Title: About
+URL:
+save_as: index.html
 
 The MSOE Data-Intensive Systems Education (DISE) Project was started in Spring 2023 with the goal of
 providing resources to support the teaching of data-intensive systems.  The project aims to design, document, and
