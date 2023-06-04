@@ -2,7 +2,7 @@ Title: Project Members
 
 ## RJ Nowling
 
-![bio photo of RJ]({static}/images/nowling.jpg)
+![bio photo of RJ]({static}/images/nowling_small.jpg)
 
 RJ is an Associate Professor in the Electrical Engineering & Computer Science department of the
 [Milwaukee School of Engineering](https://msoe.edu/) and coordinator of the
