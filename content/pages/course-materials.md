@@ -1,5 +1,8 @@
 Title: Course Materials
 
+These courses are taught as part of MSOE's
+[Master's in Machine Learning](https://online.msoe.edu/engineering/masters-machine-learning/) program.
+
 ## ML Production Systems
 Students will design, implement, deploy, and operate a machine learning-powered service, including components for data processing,
 model training, modeling serving, model evaluation, and monitoring.  Technologies and design patterns for streaming and batch data
