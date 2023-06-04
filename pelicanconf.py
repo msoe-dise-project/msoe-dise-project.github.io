@@ -36,5 +36,5 @@ MENUITEMS = (
     ('Course Materials', '/pages/course-materials.html'),
     ('Articles', '/pages/articles.html'),
     ('GitHub', 'https://github.com/msoe-dise-project'),
-    ('Project Members', '/pages/project_members.html'),
+    ('Project Members', '/pages/project-members.html'),
     )
