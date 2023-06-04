@@ -15,6 +15,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+INDEX_SAVE_AS = 'all_articles.html'
+
 # Blogroll
 LINKS = (('RJ Nowling', 'https://rnowling.github.io'),
          ('MSOE', 'https://www.msoe.edu'),)
