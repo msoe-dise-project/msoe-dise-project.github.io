@@ -4,7 +4,8 @@ Title: Articles and Talks
 
 * Nowling, Ronald J. [Part 1: Integrating Debezium Server and Memphis.dev for Streaming Change Data Capture (CDC) Events](https://medium.com/memphis-dev/memphis-dev-part-1-integrating-debezium-server-and-memphis-dev-3fc91d420024). May 4, 2023.
 * Nowling, Ronald J. [Part 2: Change Data Capture (CDC) for MongoDB with Debezium and Memphis.dev](https://medium.com/p/b7aa1ed81a2c). May 17, 2023.
-* Nowling, Ronald J. [Part 3: Transforming MongoDB CDC Event Messages](https://medium.com/memphis-dev/memphis-dev-part-3-transforming-mongodb-cdc-event-messages-487faffa7fd5). June 6, 2023
+* Nowling, Ronald J. [Part 3: Transforming MongoDB CDC Event Messages](https://medium.com/memphis-dev/memphis-dev-part-3-transforming-mongodb-cdc-event-messages-487faffa7fd5). June 6, 2023.
+* Nowling, Ronald J. [Part 4: Part 4: Validating CDC Messages with Schemaverse](https://medium.com/memphis-dev/memphis-dev-part-4-validating-cdc-messages-with-schemaverse-fd262013dfaa]). June 22, 2023.
 
 ## Conference and Meetup Talks
 
