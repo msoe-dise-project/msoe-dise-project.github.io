@@ -19,7 +19,10 @@ INDEX_SAVE_AS = 'all_articles.html'
 
 # Blogroll
 LINKS = (('RJ Nowling', 'https://rnowling.github.io'),
-         ('MSOE', 'https://www.msoe.edu'),)
+         ('Nowling Lab', 'https://nowling-lab.github.io'),
+         ('MSOE', 'https://www.msoe.edu'),
+         ('M.S. in Machine Learning', 'https://online.msoe.edu/engineering/masters-machine-learning/'),
+        )
 
 # Social widget
 SOCIAL = tuple()
