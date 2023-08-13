@@ -1,4 +1,4 @@
-Title: Articles and Talks
+Title: Publications and Talks
 
 ## Blog Posts and Magazine Articles
 
@@ -9,6 +9,8 @@ Title: Articles and Talks
 
 ## Conference and Meetup Talks
 
+* Nowling, Ronald J. [Streaming Systems for Real-Time Analytics](https://github.com/msoe-dise-project/slides-from-talks/blob/main/2023-08%20MadPy%20Meetup.pdf). MadPy Meetup. 2023
+* Nowling, Ronald J. [Change Data Capture (CDC) Solutions with Debezium and Memphis.dev](https://github.com/msoe-dise-project/slides-from-talks/blob/main/2023-07%20Chicago%20Data%20Professionals%20Meetup.pdf). Chicago Data Professionals Meetup. 2023.
 * Nowling, Ronald J. [Insights into Customer Behavior from Clickstream Data](https://www.slideshare.net/SparkSummit/insights-into-customer-behavior-from-clickstream-data-by-ronald-nowling). Spark Summit East 2016.
 * Nowling, Ronald J. [Synthetic Data Generation for Realistic Analytics Examples and Testing](http://events17.linuxfoundation.org/sites/events/files/slides/BigPetStore%20ET%20Tech%20Talk%203.pdf). ApacheCon Big Data EU 2015.
 
