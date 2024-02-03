@@ -37,7 +37,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Home', '/'),
     ('Course Materials', '/pages/course-materials.html'),
-    ('Publications and Talks', '/pages/publications-and-talks.html'),
+    ('Articles and Talks', '/pages/articles-and-talks.html'),
     ('Project Members', '/pages/project-members.html'),
     ('GitHub', 'https://github.com/msoe-dise-project'),
     )

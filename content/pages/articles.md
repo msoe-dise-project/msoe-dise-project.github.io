@@ -1,4 +1,4 @@
-Title: Publications and Talks
+Title: Articles and Talks
 
 ## Peer-Reviewed Papers
 
